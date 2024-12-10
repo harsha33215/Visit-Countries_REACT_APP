@@ -1,0 +1,18 @@
+.image-url {
+  height: 60px;
+  width: 120px;
+}
+
+.name {
+  font-size: 24px;
+  font-family: 'Roboto';
+  color: #f8fafc;
+  font-weight: 700;
+}
+
+.button{
+  padding: 5px;
+  border: none;
+  border-radius: 6px;
+  
+}
